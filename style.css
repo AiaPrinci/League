@@ -166,6 +166,14 @@ header h1 {
     gap: 10px;
 }
 
+#miami-player-box {
+    flex-direction: column;
+}
+
+#first-two-player {
+    display: flex;
+}
+
 .player-box-container {
     display: flex;
     flex-direction: column;
@@ -194,7 +202,7 @@ header h1 {
 }
 
 #second-fbc {
-    background-image: url('./images/LEKVISHVLI.png');
+    background-image: url('./images/LEKISHVILI.png');
 }
 
 #first-miami {
@@ -205,16 +213,20 @@ header h1 {
     background-image: url('./images/chitadze.png');
 }
 
+#third-miami {
+    background-image: url('./images/lekishvilijr.png');
+}
+
 #first-rma {
     background-image: url('./images/khachidze.png');
 }
 
 #second-rma {
-    background-image: url('./images/lekvishvili.png');
+    background-image: url('./images/gambashidze.png');
 }
 
 #first-city {
-    background-image: url('./images/taganashvili.png');
+    background-image: url('./images/abramashvili.png');
 }
 
 #second-city {
