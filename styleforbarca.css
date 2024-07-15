@@ -49,3 +49,8 @@ main {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
 }
+
+.vitom-player {
+    width: 42px;
+    height: 160px;
+}
